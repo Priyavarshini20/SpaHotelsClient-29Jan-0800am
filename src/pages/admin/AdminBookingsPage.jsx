@@ -118,7 +118,7 @@ const AdminBookingsPage = () => {
                   <tr>
                     <th>Booking Id</th>
                     <th>User Name </th>
-                    <th>Hotel Name</th>
+                    <th>Room Name</th>
                     <th>From</th>
                     <th>To</th>
                     <th>Status</th>
