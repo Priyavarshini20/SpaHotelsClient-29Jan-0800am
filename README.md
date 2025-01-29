@@ -11,4 +11,4 @@ first you have to resgister and then long in ho to hotel room booking pay the ho
 
 Important point :
  I have given the image url pdf that only you have to use it and not in google images or i have give the api url pdf also.
-
+Note: Run the server and client first and then run the project
