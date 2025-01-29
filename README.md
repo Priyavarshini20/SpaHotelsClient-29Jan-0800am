@@ -12,4 +12,3 @@ first you have to resgister and then long in ho to hotel room booking pay the ho
 Important point :
  I have given the image url pdf that only you have to use it and not in google images or i have give the api url pdf also.
 
-Base url: http://127.0.0.1:6066 server postman
