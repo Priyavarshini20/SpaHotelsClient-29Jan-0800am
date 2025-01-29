@@ -51,7 +51,7 @@ Password : 123456
 
 Step IX
 Once logged in you will be redirect to Room Admin Page where you can Add Edit and Delete Rooms.
-In Adding Room  Room images have to added using image url's taken for the internet.
+In Adding Room  Room images have to added using image url's taken from the internet.
 
 In the User Admin Page , Admins can delete user and make user an Administrator
 
