@@ -16,7 +16,7 @@ import ProfilePage from "./pages/ProfilePage";
 //import "dotenv/config";
 //BASE_URL = process.env.REACT_APP_API_URL;
 //axios.defaults.baseURL = BASE_URL;
-axios.defaults.baseURL = "https://spahotelsserver-29jan-0800am.onrender.com";
+axios.defaults.baseURL = "https://spahotelsserver-1.onrender.com/";
 
 function App() {
   //console.log(process.env.REACT_APP_API_URL);
